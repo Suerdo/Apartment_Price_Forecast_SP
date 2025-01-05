@@ -46,6 +46,3 @@ Com essas análises, foi possível identificar que fatores como localização, �
 3. Abra e execute o notebook Jupyter:
     ```bash
     jupyter notebook notebooks/apartment_price_analysis.ipynb
-
-
-
