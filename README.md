@@ -45,4 +45,4 @@ Com essas análises, foi possível identificar que fatores como localização, �
     cd Apartment_Price_Forecast_SP
 3. Abra e execute o notebook Jupyter:
     ```bash
-    jupyter notebook notebooks/apartment_price_analysis.ipynb
+    jupyter notebook notebook/apartment_price_analysis.ipynb
